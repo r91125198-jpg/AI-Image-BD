@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image BD",
+  "description": "An elite, production-grade AI Image Generation SaaS platform, architected entirely on the frontend using React.js. It features user and admin roles, credit-based image generation, and a session-based state management system.",
+  "requestFramePermissions": []
+}
